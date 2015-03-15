@@ -1,0 +1,26 @@
+Hi,
+
+Welcome to my programming page. I will post programming problems from various online coding platform such as Codechef, Leetcode, Hackerrank etc and their solutions also. All such solutions can be found in my github repository. 
+
+Apart from that problems from programming various online programming contests will also be shared here. All the solutions to the problems will be either in C or in C++. So I will suggest some references to brush up your programming basics in C and C++. 
+
+Here are the links of some good books available online in C and C++:
+
+C
+
+Let Us C by  by yashavant Kanethar
+KERNINGHAN & RITCHIE-C
+C for dummies
+C Complete Reference
+C++
+
+C++ Complete Reference
+C++ Programming Style Guidelines
+C++ Tutorial for C Users
+C++ Unleashed
+Apart from these books there are online sites also which can provide a vast knowledge of Cand C++ prograamming basics. These are:
+
+Geeks for Geeks
+C++ reference
+W3 Schools
+I will be keep adding more resources according to our need in coming days. So Lets Start...
